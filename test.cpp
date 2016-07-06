@@ -10,6 +10,11 @@ int mul(int a ,int b)
 {
 	return 1;
 }
+
+void branch1()
+{
+	std::cout<<"Branch1";
+}
 int main()
 {
 	int a,b;
