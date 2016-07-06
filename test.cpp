@@ -10,6 +10,11 @@ int mul(int a ,int b)
 {
 	return 1;
 }
+
+int div(int a ,int b)
+{
+	return a/b;
+}
 int main()
 {
 	int a,b;
