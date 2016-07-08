@@ -16,9 +16,9 @@ int div(int a ,int b)
 	return a/b;
 }
 
-void branch1()
+void branch2()
 {
-	std::cout<<"Branch1;
+	std::cout<<"Branch2;
 }
 int main()
 {
