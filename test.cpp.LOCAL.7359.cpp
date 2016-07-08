@@ -10,15 +10,14 @@ int mul(int a ,int b)
 {
 	return a*b;
 }
-
 int div(int a ,int b)
 {
 	return a/b;
 }
 
-void branch2()
+std::string branch2()
 {
-	std::cout<<"Branch2";
+	return "Branch2";
 }
 int main()
 {

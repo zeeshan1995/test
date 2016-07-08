@@ -15,11 +15,6 @@ int div(int a ,int b)
 {
 	return a/b;
 }
-
-void branch2()
-{
-	std::cout<<"Branch2";
-}
 int main()
 {
 	int a,b;
