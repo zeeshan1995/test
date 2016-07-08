@@ -8,7 +8,12 @@ int add(int a ,int b)
 }
 int mul(int a ,int b)
 {
-	return 1;
+	return a*b;
+}
+
+int div(int a ,int b)
+{
+	return a/b;
 }
 
 void branch1()
